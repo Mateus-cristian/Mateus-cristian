@@ -22,8 +22,9 @@ Tecnologias:
 
 <div style="display:flex;">
 
-<img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
+ <div class="image">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  </div>
 
 <img class="image"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
