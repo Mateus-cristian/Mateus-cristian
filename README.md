@@ -19,7 +19,7 @@
 Tecnologias:
 
 
-<div style="display:flex;gap:0 5px;">
+<div style="display:flex">
 
 <img style="max-width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -48,8 +48,6 @@ Tecnologias:
 <img style="max-width:50px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 <img style="max-width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-
-
 
 </div>
 
