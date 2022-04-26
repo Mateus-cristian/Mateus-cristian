@@ -17,6 +17,8 @@
 💼 [Linkedin]()<br>
 📸 [instagram]()
 
+<p>Tecnologias</p>
+
 <ul>
 <li>HTML</li>
 <li>CSS</li>
