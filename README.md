@@ -1,3 +1,4 @@
+<link href="./style.css" rel="stylesheet"></link>
 
 <h1>Hi there Welcome to my profile👋</h1>
 
@@ -21,7 +22,7 @@ Tecnologias:
 
 <div style="display:flex">
 
-<img style="max-width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 
 
