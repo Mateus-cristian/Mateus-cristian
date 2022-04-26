@@ -17,40 +17,20 @@
 💼 [Linkedin]()<br>
 📸 [instagram]()
 
-Tecnologias:
+tecnologias
 
-
-<div style="display:flex;">
-
-<img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-
-<img class="image"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-
-<img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
-
-          
-<img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-
-<img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-
-
-<img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          
-</div>
-
-<div style="display:flex;gap:0 5px;margin:30px 0;">
-
-<img class="image"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-
-<img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-
-</div>
-
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Sass</li>
+<li>Bootstrap</li>
+<li>Tailwind</li>
+<li>Javascript</li>
+<li>React</li>
+<li>PHP</li>
+<li>Laravel</li>
+<li>SQL</li>
+</ul>
 
 
 
