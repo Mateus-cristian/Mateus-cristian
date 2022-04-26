@@ -17,7 +17,43 @@
 💼 [Linkedin]()<br>
 📸 [instagram]()
 
+<<<<<<< HEAD
 tecnologias
+=======
+Tecnologias:
+
+
+<div style="display:flex;">
+
+
+![]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg")
+
+<img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
+
+          
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+</div>
+
+<div style="display:flex;gap:0 5px;margin:30px 0;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+
+</div>
+>>>>>>> 2e36a62d6bd42bd15209c48697946b9d5bbc5bee
 
 <ul>
 <li>HTML</li>
