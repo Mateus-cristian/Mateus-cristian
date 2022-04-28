@@ -6,7 +6,7 @@
 
 <ul>
    <li>My name is Mateus Cristian</li>
-   <li>26 years old</li>
+   <li>27 years old</li>
    <li>Technologist in System Analysis</li>
    <li>Brazilian</li>
 </ul>
@@ -19,18 +19,15 @@
 
 <p>Tecnologias:</p>
 
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>Sass</li>
-<li>Bootstrap</li>
-<li>Tailwind</li>
-<li>Javascript</li>
-<li>React</li>
-<li>PHP</li>
-<li>Laravel</li>
-<li>SQL</li>
-</ul>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="Mateus-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
 
 
 
