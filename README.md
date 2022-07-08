@@ -11,7 +11,7 @@
    <li>Brazilian</li>
 </ul>
 
-FullStack Developer in the <a href="https://duo.studio/">Duo Studio Interativo</a>
+Front-End Developer in the <a href="https://www.nl.com.br/">NL Informática</a>
 
 <p>Social:</p>
 
