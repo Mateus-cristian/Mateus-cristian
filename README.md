@@ -11,7 +11,7 @@
    <li>Brazilian</li>
 </ul>
 
-Front-End Developer in the <a href="https://www.nl.com.br/">NL Informática</a>
+FullStack Developer in the <a href="https://www.nl.com.br/">NL Informática</a>
 
 <p>Social:</p>
 
