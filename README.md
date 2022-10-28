@@ -32,6 +32,7 @@ FullStack Developer in the <a href="https://www.nl.com.br/">NL Informática</a>
   
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-cristian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
