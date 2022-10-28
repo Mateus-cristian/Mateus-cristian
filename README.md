@@ -35,7 +35,7 @@ FullStack Developer in the <a href="https://www.nl.com.br/">NL Informática</a>
 <br />
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-cristian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-cristian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
 
 
 
