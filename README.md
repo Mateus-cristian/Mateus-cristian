@@ -14,16 +14,9 @@
 FullStack Developer in the <a href="https://www.windel.com.br/">Windel Sistemas</a>
 
 <p>Social:</p>
-<ul>
-   <li>
-      [Linkedin](https://www.linkedin.com/in/mateus-cristian-ferreira-de-paula-2520271a4/)<br>
-   </li>
-   <li>
-      [instagram](https://www.instagram.com/mateuzoo/)
-   </li>
-</ul>
- 
- 
+
+   [Linkedin](https://www.linkedin.com/in/mateus-cristian-ferreira-de-paula-2520271a4/)<br>
+   [instagram](https://www.instagram.com/mateuzoo/)
 
 <p>Technologies:</p>
 <div style="display: inline_block"><br>
