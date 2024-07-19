@@ -1,6 +1,6 @@
 <link href="./style.css" rel="stylesheet"></link>
 
-<h1>Hi there Welcome to my profile👋</h1>
+<h1>Hi there Welcome to my profile</h1>
 
 <p>I love to study and I'm always learning new technologies</p>
 
@@ -14,9 +14,16 @@
 FullStack Developer in the <a href="https://www.windel.com.br/">Windel Sistemas</a>
 
 <p>Social:</p>
-
-💼 [Linkedin](https://www.linkedin.com/in/mateus-cristian-ferreira-de-paula-2520271a4/)<br>
-📸 [instagram](https://www.instagram.com/mateuzoo/)
+<ul>
+   <li>
+      [Linkedin](https://www.linkedin.com/in/mateus-cristian-ferreira-de-paula-2520271a4/)<br>
+   </li>
+   <li>
+      [instagram](https://www.instagram.com/mateuzoo/)
+   </li>
+</ul>
+ 
+ 
 
 <p>Technologies:</p>
 <div style="display: inline_block"><br>
