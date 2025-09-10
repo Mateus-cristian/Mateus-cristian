@@ -11,7 +11,7 @@
    <li>Brazilian</li>
 </ul>
 
-Associate software developer in the <a href="https://www.metadados.com.br/">Metadados assessoria e sistemas</a>
+Software developer in the <a href="https://www.metadados.com.br/">Metadados assessoria e sistemas</a>
 
 <p>Social:</p>
 
